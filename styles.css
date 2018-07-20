@@ -1,0 +1,24 @@
+body {
+  font-family: 'Josefin Slab', serif;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 80px;
+}
+
+button {
+  font-family: 'Josefin Slab', serif;
+  color: white;
+  background-color: rgb(83, 103, 192);
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 50px;
+  border-radius: 15px;
+  padding: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-color: black;
+  border-left-width: 1px;
+  border-top-width: 1px;
+  border-right-width: 3px;
+  border-bottom-width: 3px;
+}
